@@ -19,7 +19,7 @@ viable approach.
 Ideal approach would be to read the input array and manipulate data in-place. The details are in the solution
 
 #### Solution
-
+[Code](/data_structures_and_algorithms/challenges/array_reverse/array_reverse.py)
 ![Solution image displaying approach to the solution](./assets/array-reverse.jpg "Challenge01")
 
 ### Array shift
@@ -39,4 +39,5 @@ linearly with the elements in the array i.e. O(n). The solution uses a constant 
 O(1).
 
 #### Solution
+[Code](/data_structures_and_algorithms/challenges/array_shift/array_shift.py)
 ![Solution image displaying approach to the solution](./assets/array-shift.jpg "Challenge02")
